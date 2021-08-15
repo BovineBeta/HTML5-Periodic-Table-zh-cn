@@ -7,4 +7,5 @@ You can view it at [My Github Page](https://BovineBeta.github.io/HTML5-Periodic-
 
 你可以在[我的Github Page](https://BovineBeta.github.io/HTML5-Periodic-Table-zh-cn)预览它。
 
-![HTML](https://img.shields.io/static/v1?label=Language&message=HTML&color=brightgreen)
+![HTML](https://img.shields.io/static/v1?label=Language&message=HTML&color=brightgreen)[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
