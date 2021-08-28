@@ -1,7 +1,7 @@
 # HTML5-Periodic-Table-zh-cn
-An  Chinese Periodic Table what made with HTML.
+An  Chinese Periodic Table which made with HTML5.
 
-一个用HTML做的中文元素周期表。
+一个用HTML5做的简体中文元素周期表。
 
 You can view it at [My Github Page](https://BovineBeta.github.io/HTML5-Periodic-Table-zh-cn).
 
