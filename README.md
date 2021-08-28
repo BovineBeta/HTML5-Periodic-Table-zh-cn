@@ -1,5 +1,5 @@
 # HTML5-Periodic-Table-zh-cn
-An  Chinese Periodic Table which made with HTML5.
+An Simplified Chinese Table which made with HTML5.
 
 一个用HTML5做的简体中文元素周期表。
 
